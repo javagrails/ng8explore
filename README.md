@@ -1,2 +1,2 @@
 # ng8explore
-Learn Angular
+Learn Angular rnd
