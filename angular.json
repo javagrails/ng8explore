@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -123,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ng8explore"
+  "defaultProject": "ng8explore",
+  "cli": {
+    "analytics": "0c76f067-9b11-4678-9417-0ed8335ef777"
+  }
 }
