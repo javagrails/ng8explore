@@ -21,6 +21,7 @@ ng g c shopping-list/shopping-edit --skipTests
 div.row>div.col-md-5+div.col-md-7
 
 Note :: 7. Adding a Navigation Bar
+UpTo :: 11. Outputting a List of Recipes with ngFor
 
 =============== ffff ===============
 =============== ffff ===============
