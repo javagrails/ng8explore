@@ -5,7 +5,9 @@ npm install bootstrap@3 --save
 =============== 7. Creating Components with the CLI & Nesting Components ===============
 ng g c servers
 
-=============== ffff =============== 
+=============== Chapter-03 :: Course Project - The Basics ===============
+npm install  --save bootstrap
+
 =============== ffff =============== 
 =============== ffff =============== 
 =============== ffff =============== 
